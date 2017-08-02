@@ -53,11 +53,12 @@
             <p class="lead">
               <a href="/music" class="btn btn-lg btn-default">Our Music</a>
             </p>
-            <!--<iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/d0d92358-92cc-4d5c-bdef-7456f5f269e5/mini/dark/transparent"></iframe> -->
           </div>
 
           <div class="mastfoot">
             <div class="inner">
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/336015954&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+            <!--<iframe name="mini" style="border:0px;width:100%;height:100px;" src="//widget.cdbaby.com/d0d92358-92cc-4d5c-bdef-7456f5f269e5/mini/dark/transparent"></iframe> -->
             </div>
           </div>
 
